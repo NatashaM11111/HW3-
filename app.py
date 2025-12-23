@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 from transformers import pipeline
-import altair as alt
 
 # ---------- Load sentiment analysis model (Hugging Face) ----------
 @st.cache_resource
