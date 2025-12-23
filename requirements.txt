@@ -6,3 +6,6 @@ python-dateutil
 transformers==4.40.0
 torch==2.3.0
 sentencepiece
+huggingface-hub==0.22.2
+tokenizers==0.19.1
+safetensors
